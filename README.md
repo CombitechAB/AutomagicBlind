@@ -1,2 +1,2 @@
 # AutomagicBlind
-Code repository for creating automatic blinds using an electric motor and a microprocessor
+Code repository for controlling IKEA Sova blinds (and others) using a stepper motor and an arduino microprocessor
